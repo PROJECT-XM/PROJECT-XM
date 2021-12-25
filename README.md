@@ -1,9 +1,10 @@
 ### Hello 👋, welcome to XM's page. 
 
-### :school: Within 3 months in end 2021, I have attained [Cyber Security](https://www.centreforcybersecurity.com/) course certifications in XE Basics,  Network Research and SOC Analyst
-### :space_invader: I have also completed 16 [Real world simulations](https://www.thinkcyber.co.il/), including Log Analysis, Wireshark Analysis, ELK Configurations and pfSense firewall
-### :seedling: I'm currently working on my SOC_Checker project
-### :video_game: Game for [overthewire](https://overthewire.org/wargames/) challenges next!
+- :school: Within 3 months in end 2021, I have attained [Cyber Security](https://www.centreforcybersecurity.com/) course certifications in XE Basics,  Network Research and SOC Analyst
+- :space_invader: I have also completed 16 Real world simulations in the [Cyberium Arena](https://www.thinkcyber.co.il/), including Log Analysis, Wireshark Analysis, ELK Configurations and setting up a pfSense firewall
+- :seedling: I'm currently working on my SOC_Checker project 
+- :video_game: Game for [overthewire](https://overthewire.org/wargames/) challenges next!
+- :briefcase: Open to job opportunities
 
 <!--
 **PROJECT-XM/PROJECT-XM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
