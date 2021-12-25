@@ -1,6 +1,6 @@
 ### Hello 👋, welcome to XM's page. 
 
-- :school: Within 3 months in end 2021, I have attained [Cyber Security](https://www.centreforcybersecurity.com/) course certifications in XE Basics,  Network Research and SOC Analyst
+- :school: Within 3 months in end 2021, I have attained Cyber Security [course certifications](https://www.centreforcybersecurity.com/) in XE Basics,  Network Research and SOC Analyst
 - :space_invader: I have also completed 16 Real world simulations in the [Cyberium Arena](https://www.thinkcyber.co.il/), including Log Analysis, Wireshark Analysis, ELK Configurations and setting up a pfSense firewall
 - :seedling: I'm currently working on my SOC_Checker project 
 - :video_game: Game for [overthewire](https://overthewire.org/wargames/) challenges next!
